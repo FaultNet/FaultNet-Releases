@@ -2,7 +2,7 @@
 
 > Structured Intelligence for Real-World Automotive Faults
 
-[![.NET CI](https://github.com/FaultNet/faultnet/actions/workflows/ci.yml/badge.svg)](https://github.com/FaultNet/faultnet/actions/workflows/ci.yml)
+[![CI Backend](https://github.com/FaultNet/FaultNet/actions/workflows/ci-backend.yml/badge.svg)](https://github.com/FaultNet/FaultNet/actions/workflows/ci-backend.yml)
 
 ---
 
