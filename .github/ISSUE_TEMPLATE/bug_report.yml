@@ -44,8 +44,8 @@ body:
     id: version
     attributes:
       label: App Version
-      description: What version of FaultNet? (Found in app settings or footer)
-      placeholder: e.g., v1.0.2
+      description: What version of FaultNet? (Found in the app sidebar / x-api-version header in API responses)
+      placeholder: e.g., v0.0.32
     validations:
       required: false
 
