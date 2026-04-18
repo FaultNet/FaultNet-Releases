@@ -2,9 +2,9 @@
 
 ## Structured Intelligence for Real-World Automotive Faults
 
-![GitHub Release](https://img.shields.io/github/v/release/FaultNet/FaultNet-Releases?style=flat-square&color=blue&label=Current)
-![CI Frontend](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/FaultNet/FaultNet-Releases/main/frontend-build-status.json&query=$.status&style=flat-square&color=green&label=frontend)
-![CI Backend](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/FaultNet/FaultNet-Releases/main/backend-build-status.json&query=$.status&style=flat-square&color=green&label=backend)
+![GitHub Release](https://img.shields.io/github/v/release/FaultNet/FaultNet-Releases?style=flat-square&color=blue&label=Version)
+![CI Frontend](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/FaultNet/FaultNet-Releases/main/frontend-build-status.json)
+![CI Backend](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/FaultNet/FaultNet-Releases/main/backend-build-status.json)
 
 ---
 
