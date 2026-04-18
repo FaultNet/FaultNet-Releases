@@ -84,15 +84,15 @@ See what's planned for future releases and development priorities.
 You can report bugs or request features in **two ways**:
 
 ### Option 1: From the Web App
-Use the in-app **"Report Issue"** feature which sends structured information straight to this repository.
+Use the in-app <picture><source media="(prefers-color-scheme: dark)" srcset="assets/chatbubbles-white.svg"><source media="(prefers-color-scheme: light)" srcset="assets/chatbubbles-black.svg"><img src="assets/chatbubbles-black.svg" height="16" width="16"></picture> **Support** feature in the menu sidebar which will create and send a new structured issue straight to this repository.
 
 ### Option 2: From GitHub
-Open an issue directly in this repository using one of our templates:
+Create a new issue directly in this repository using one of our templates:
 
 - **[Report a Bug](https://github.com/FaultNet/FaultNet-Releases/issues/new?template=bug_report.yml)** - Found a problem or unexpected behavior
 - **[Request a Feature](https://github.com/FaultNet/FaultNet-Releases/issues/new?template=feature_request.yml)** - Suggest improvements or new capabilities
 
-Both methods use structured templates to ensure we have as much information as possible to address your issue/feature request.
+Both methods use structured templates to try and ensure we have as much information as possible to address your issue/feature request.
 
 > [!TIP]
 > Before opening a new issue, please search [existing issues](https://github.com/FaultNet/FaultNet-Releases/issues) to avoid duplicates.
