@@ -1,6 +1,6 @@
 # FaultNet
 
-## Structured Intelligence for Real-World Automotive Faults
+## Structured Intelligence for Automotive Faults
 
 ![GitHub Release](https://img.shields.io/github/v/release/FaultNet/FaultNet-Releases?style=flat-square&color=blue&label=Version)
 ![CI Frontend](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/FaultNet/FaultNet-Releases/main/frontend-build-status.json)
@@ -8,19 +8,19 @@
 
 ---
 
-## What is FaultNet?
+## What is it?
 
-Modern vehicles are complex systems. When something fails whether it's a fault code, an electrical issue, a mechanical component or maybe a door that stops locking, diagnosis can often rely on forum posts, anecdotal advice and trial-and-error.
+Modern vehicles are complex systems and when something fails whether it's an electrical issue, a mechanical component or maybe a warning light has popped up with a fault code, diagnosis can rely on forum posts, anecdotal advice and trial-and-error.
 
 **FaultNet** is a structured, searchable automotive fault intelligence platform designed to help DIY mechanics, car enthusiasts and technicians diagnose vehicle issues through community-driven insights and pattern recognition.
 
-We take a different approach to fault tracking and solution discovery, the platform provides structured searchable data and interactive discussion threads to help you make informed decisions about automotive faults.
+FaultNet can help you and you can help everyone else to take a different approach to fault tracking and solution discovery, the platform maintains structured searchable fault data and interactive discussion threads to help you make informed decisions about automotive faults. Let's build the best vehicle fault tracking and diagnosis platform together so we can all help each other.
 
 ### Who Is It For?
 
 - **DIY Mechanics** - Troubleshoot your own vehicle issues with real-world data
 - **Car Enthusiasts** - Share your diagnostic experiences and learn from others
-- **Home Mechanics** - Access a searchable database of fault cases and solutions
+- **Pro technicians** - Access a searchable database of fault cases and solutions
 - **Anyone** - Dealing with automotive issues and looking for patterns
 
 ---
@@ -43,14 +43,14 @@ Search diagnostic trouble codes (DTCs) across all vehicle systems
 Surface recurring issues across similar vehicles, environments and conditions
 
 ✅ **Timeline & Resolution Tracking**  
-Document diagnostic steps, repairs attempted and final resolutions
+Document diagnostic steps, repairs attempted and resolution outcomes
 
 ✅ **Community-Driven Insights**  
-Collaborate with other users through timeline discussions and shared experiences
+Collaborate with other users in fault timeline discussions and shared experiences
 
 ---
 
-## What FaultNet Covers
+## What it Covers
 
 - **OBD and manufacturer-specific fault codes** (DTC lookup and context)
 - **Mechanical failures** (engine, transmission, suspension brakes etc)
@@ -63,16 +63,16 @@ Collaborate with other users through timeline discussions and shared experiences
 
 ## About This Repository
 
-**FaultNet-Releases** is the platform information and support hub for FaultNet users. This repository is used for:
+**FaultNet-Releases** is the information and support hub for FaultNet. This repository is for:
 
 ### 📋 Release Notes
-Version updates, new features, and improvements are documented here. Check the [Releases](https://github.com/FaultNet/FaultNet-Releases/releases) page for the latest updates.
+Version updates, new features and improvements are documented in this repo. Check the [Releases](https://github.com/FaultNet/FaultNet-Releases/releases) page for the latest updates.
 
 ### 🐛 Bug Reports
 Encountered a problem? Report issues directly to help us improve FaultNet.
 
 ### 💡 Feature Requests
-Have an idea for a new feature? Share your suggestions and help shape the future of FaultNet.
+Have an idea for a new feature? Share your suggestions and help shape the future of the system.
 
 ### 🗺️ Roadmap
 See what's planned for future releases and development priorities.
@@ -103,7 +103,7 @@ Both methods use structured templates to try and ensure we have as much informat
 
 ### Access the Platform
 
-🌐 **[Launch FaultNet](https://app.faultnet.io)** *(Production - Coming Soon)*  
+🌐 **[Launch FaultNet](https://faultnet.io)** *(Production - Coming Soon)*
 🧪 **[Try the Staging Environment](https://staging.faultnet.io)** *(Early Access)*
 
 ### System Requirements
@@ -145,16 +145,16 @@ FaultNet is under active development. Expect frequent updates, new features and 
 
 Copyright © 2026 FaultNet. All rights reserved.
 
-This software is proprietary. For licensing inquiries, contact: [contact@faultnet.io](mailto:contact@faultnet.io)
+This software is proprietary. For SaaS API access and licensing inquiries please contact: [contact@faultnet.io](mailto:contact@faultnet.io)
 
 ---
 
 ## Links
 
-- **Website**: [faultnet.io](https://faultnet.io)
-- **Web App**: [app.faultnet.io](https://app.faultnet.io) *(Coming Soon)*
+- **Live**: [faultnet.io](https://faultnet.io) *(Production - Coming Soon)*
 - **Staging**: [staging.faultnet.io](https://staging.faultnet.io) *(Early Access)*
-- **GitHub**: [github.com/FaultNet](https://github.com/FaultNet)
+- **GitHub**: [github.com/FaultNet](https://github.com/FaultNet) *(Our GitHub org)*
+- **App**: [app.faultnet.io](https://app.faultnet.io) *(Android app - Coming Soon)*
 
 ---
 
