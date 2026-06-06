@@ -103,8 +103,8 @@ Both methods use structured templates to try and ensure we have as much informat
 
 ### Access the Platform
 
-🌐 **[Launch FaultNet](https://faultnet.io)** *(Production - Coming Soon)*
-🧪 **[Try the Staging Environment](https://staging.faultnet.io)** *(Early Access)*
+🌐 **[Launch FaultNet](https://faultnet.io)** *(Live)*
+🧪 **[Try the Staging Environment](https://staging.faultnet.io)** *(Test)*
 
 ### System Requirements
 
@@ -127,15 +127,15 @@ Both methods use structured templates to try and ensure we have as much informat
 ### Get Help
 
 - **[Report an Issue](https://github.com/FaultNet/FaultNet-Releases/issues/new/choose)** - Bug reports and feature requests
-- **[View Documentation](https://github.com/FaultNet/Docs)** - Development documentation and API references *(Coming Soon)*
+- **[View Documentation](https://docs.faultnet.io)** - Guides, screenshots, contact form
 - **[Contact Support](mailto:contact@faultnet.io)** - General inquiries
 
 ---
 
 ## Project Status
 
-**Current Phase**: In Development Beta
-**Status**: Early Access / Staging
+**Current Phase**: In Development
+**Status**: Production Live and Staging Test
 
 FaultNet is under active development. Expect frequent updates, new features and improvements based on community feedback.
 
@@ -151,8 +151,8 @@ This software is proprietary. For SaaS API access and licensing inquiries please
 
 ## Links
 
-- **Live**: [faultnet.io](https://faultnet.io) *(Production - Coming Soon)*
-- **Staging**: [staging.faultnet.io](https://staging.faultnet.io) *(Early Access)*
+- **Live**: [faultnet.io](https://faultnet.io) *(Production)*
+- **Staging**: [staging.faultnet.io](https://staging.faultnet.io) *(Test)*
 - **GitHub**: [github.com/FaultNet](https://github.com/FaultNet) *(Our GitHub org)*
 - **App**: [app.faultnet.io](https://app.faultnet.io) *(Android app - Coming Soon)*
 
